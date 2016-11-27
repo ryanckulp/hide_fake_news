@@ -6,7 +6,7 @@
   "browser_action": {
      "default_icon": "fake_news_128.png"
    },
-  "version": "0.2",
+  "version": "0.1",
   "icons": { "16": "fake_news_16.png",
            "48": "fake_news_48.png",
           "128": "fake_news_128.png" },
