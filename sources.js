@@ -1,12 +1,13 @@
 var sources = [
-  'nytimes',
-  'washingtonpost',
-  'Slate',
-  'politico',
   'ABC',
-  'nbc',
   'CBS',
-  'MSNBC',
   'CNN',
-  'HuffingtonPost'
+  'HuffingtonPost',
+  'MSNBC',
+  'nbc',
+  'nytimes',
+  'politico',
+  'Salon',
+  'Slate',
+  'washingtonpost'
 ]
