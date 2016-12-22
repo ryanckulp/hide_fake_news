@@ -7,15 +7,13 @@ Browser Twitter safely, avoid fake news.
 
 ### Which sites are included on this plugin?
 
-* NY Times
 * ABC/NBC/MSNBC
 * CNN
-* Slate, Politico
-* Washington Post
-* Huffington Post
-* etc
+* NY Times
+* Salon, Slate, Politico
+* WaPo, HuffPo
 
-Last updated 11/26/16
+Last updated 12/22/16
 
 ### Contribute
 
